@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **low level programming, high level programming and engineering devops**
 
-- 💬 Ask me about **C, Python, Bashn MySQL, Javascript, JSON**
+- 💬 Ask me about **C, Python, Bash, MySQL, Javascript, JSON**
 
 - 📫 How to reach me **roquesrolando@hotmail.com**
 
