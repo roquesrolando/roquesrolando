@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rolando Roques</h1>
+<h2 align="center" [a link] (Rolando resume-converted.pdf)</h2>
 <h3 align="center">A passionate software engineer student from Puerto Rico</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roquesrolando&label=Profile%20views&color=0e75b6&style=flat" alt="roquesrolando" /> </p>
