@@ -1,17 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rolando A. Roques Bassat</h1>
 <h3 align="center">A passionate software engineer student from Puerto Rico</h3>
 
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
-<html lang="en" style="width:100%; height:100%;">
-<head>
-  <meta http-equiv="content-type" content="text/html; charset=utf-8">
-  <title>Resume</title>
-</head>
-  <body style="width:100%; height:100%; margin:0;">
-    <iframe src="https://docs.google.com/gview?url=https://github.com/roquesrolando/resume/blob/main/resume_rolando.pdf&embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
-  </body>
-</html>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roquesrolando&label=Profile%20views&color=0e75b6&style=flat" alt="roquesrolando" /> </p>
 
 - 🌱 I’m currently learning **low level programming, high level programming and engineering devops**
