@@ -24,6 +24,8 @@
 |  <a href="https://github.com/roquesrolando/holbertonschool-higher_level_programming.git">High-level Programming</a>  | Python3, Object-Oriented Programming, interpreted languages, test driven deveplopment, SQL, MySQL, HTML, CSS, JSON, jQuery and Unit Testing |
 | <a href="https://github.com/roquesrolando/holberton-system_engineering-devops.git">Engineering Devops</a> |                     Linux permissions, redirections, syscalls, loops, conditions and parsing, processes and signals, SSH                    |
 
+
+
 |     Major Projects     |                                                              Descriptions                                                             |
 |:----------------------:|:-------------------------------------------------------------------------------------------------------------------------------------:|
 |       <a href="https://github.com/roquesrolando/printf.git">Printf</a>         |                                          This project we design our own printf function in C.                                         |
