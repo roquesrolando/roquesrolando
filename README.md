@@ -21,7 +21,7 @@
 |     Major Projects     |                                                              Descriptions                                                             |
 |:----------------------:|:-------------------------------------------------------------------------------------------------------------------------------------:|
 |       <a href="https://github.com/roquesrolando/printf.git">Printf</a>         |                                          This project we design our own printf function in C.                                         |
-|      simple_shell      |                                            This project we design a copy of a simple shell.                                           |
+|       <a href="https://github.com/roquesrolando/simple_shell.git">simple_shell</a>      |                                            This project we design a copy of a simple shell.                                           |
 |   Sorting Algorithms   |                                                   Task focus on sorting algorithms.                                                   |
 |      Binary Trees      |                                                      Task focus on binary trees.                                                      |
 |  AirBnB - The console  | Python packages, command interpreter in Python using the cmd module, unit testing and how to implement it in a large project and more |
