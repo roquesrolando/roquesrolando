@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roquesrolando&label=Profile%20views&color=0e75b6&style=flat" alt="roquesrolando" /> </p>
 
-- 🌱 I’m currently learning **low level programming, high level programming and engineering devops**
-
 - 💬 Ask me about **C, Python, Bash, MySQL, Javascript, JSON**
 
 - 📫 How to reach me **roquesrolando@hotmail.com**
