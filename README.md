@@ -20,7 +20,7 @@
 
 |     Major Projects     |                                                              Descriptions                                                             |
 |:----------------------:|:-------------------------------------------------------------------------------------------------------------------------------------:|
-|         Printf         |                                          This project we design our own printf function in C.                                         |
+|       <a href="https://github.com/roquesrolando/printf.git">Printf</a>         |                                          This project we design our own printf function in C.                                         |
 |      simple_shell      |                                            This project we design a copy of a simple shell.                                           |
 |   Sorting Algorithms   |                                                   Task focus on sorting algorithms.                                                   |
 |      Binary Trees      |                                                      Task focus on binary trees.                                                      |
