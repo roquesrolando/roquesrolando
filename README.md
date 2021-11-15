@@ -22,11 +22,11 @@
 |:----------------------:|:-------------------------------------------------------------------------------------------------------------------------------------:|
 |       <a href="https://github.com/roquesrolando/printf.git">Printf</a>         |                                          This project we design our own printf function in C.                                         |
 |       <a href="https://github.com/roquesrolando/simple_shell.git">simple_shell</a>      |                                            This project we design a copy of a simple shell.                                           |
-|   Sorting Algorithms   |                                                   Task focus on sorting algorithms.                                                   |
-|      Binary Trees      |                                                      Task focus on binary trees.                                                      |
-|  AirBnB - The console  | Python packages, command interpreter in Python using the cmd module, unit testing and how to implement it in a large project and more |
-| AirBnB - Web framework |                                  Create HTML response and dynamic templates. Define routes in flask.                                  |
-| AirBnB - Restful APIs  |                                                        APIs, RESTful APIs, CORS                                                       |
+|   <a href="https://github.com/roquesrolando/sorting_algorithms.git">Sorting Algorithms</a>   |                                                   Task focus on sorting algorithms.                                                   |
+|      <a href="https://github.com/roquesrolando/binary_trees.git">Binary Trees</a>      |                                                      Task focus on binary trees.                                                      |
+|  <a href="https://github.com/roquesrolando/AirBnB_clone.git">AirBnB - The console</a>  | Python packages, command interpreter in Python using the cmd module, unit testing and how to implement it in a large project and more |
+|  <a href="https://github.com/roquesrolando/AirBnB_clone_v2.git">AirBnB - Web framework</a> |                                  Create HTML response and dynamic templates. Define routes in flask.                                  |
+|  <a href="https://github.com/roquesrolando/AirBnB_clone_v4.git">AirBnB - RESTful APIs</a>  |                                                        APIs, RESTful APIs, CORS                                                       |
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roquesrolando&show_icons=true&locale=en&layout=compact&theme=radical" alt="roquesrolando" /></p>
 
