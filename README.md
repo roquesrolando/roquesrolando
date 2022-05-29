@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roquesrolando&label=Profile%20views&color=0e75b6&style=flat" alt="roquesrolando" /> </p>
 
-- 💬 Ask me about **C, Python, Bash, MySQL, Javascript, JSON**
+- 💬 Ask me about **C, Python, Bash, PostgreSQL, Javascript**
 
 - 📫 How to reach me **roquesrolando@hotmail.com**
 
