@@ -35,8 +35,5 @@
 |  <a href="https://github.com/roquesrolando/AirBnB_clone_v2.git">AirBnB - Web framework</a> |                                  Create HTML response and dynamic templates. Define routes in flask.                                  |
 |  <a href="https://github.com/roquesrolando/AirBnB_clone_v4.git">AirBnB - RESTful APIs</a>  |                                                        APIs, RESTful APIs, CORS                                                       |
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roquesrolando&show_icons=true&locale=en&layout=compact&theme=radical" alt="roquesrolando" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roquesrolando&show_icons=true&theme=radical" alt="roquesrolando" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roquesrolando&theme=radical" alt="roquesrolando" /></p>
