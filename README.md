@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey there! I'm Rolando A. Roques Bassat<br><br>🎓 **Alumnus** of [Holberton School PR](https://holbertonschoolpr.com/index.html) - trained to think critically and build efficiently.<br><br>🔧 A passionate software engineer with a knack for creating efficient and user-friendly solutions.<br><br>🌐 Currently, I'm sharpening my skills and contributing to innovative projects at **SuperPower Labs**.<br><br>📫 How to reach me **roquesrolando@hotmail.com**<br><br>📄 [My Resume](https://github.com/roquesrolando/resume/blob/main/Rolando_RoquesBassat_Resume.pdf)
+👋 Hey there! I'm Rolando A. Roques Bassat<br><br>🎓 **Alumnus** of [Holberton School PR](https://holbertonschoolpr.com/index.html) - trained to think critically and build efficiently.<br><br>🔧 A passionate software engineer with a knack for creating efficient and user-friendly solutions.<br><br>🌐 Currently, I'm sharpening my skills and contributing to innovative projects at **SuperPower Labs**.<br><br>📄 [My Resume](https://github.com/roquesrolando/resume/blob/main/Rolando_RoquesBassat_Resume.pdf)
 
 
 ## 🌐 Socials:
